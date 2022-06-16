@@ -1,0 +1,19 @@
+body{
+    background-color: #2A2550
+}
+
+.board{
+    background-color: white;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.title{
+    font-family: 'Fascinate', cursive;
+}
+
+.todo-list-items .list-group-item{
+    font-family: 'Lato', sans-serif;
+}
